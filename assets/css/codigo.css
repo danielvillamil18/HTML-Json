@@ -1,0 +1,9 @@
+html { height: 100% !important; width: 100% !important; background-image: url('../images/u-2.jpg') !important; background-repeat: no-repeat !important; background-size: cover !important; }
+body { width: 60%; }
+body, .login-box, .card{ background-color: rgba(255,255,255,.7) !important; }
+.login-box, .card{ margin-top: 2%; }
+.card-body{ margin-top: 30px; }
+.img-logo { margin-bottom: 20px; }
+.login-register { overflow: auto !important; }
+p { text-shadow: 0px 0px 1px #020 !important; font-size: small !important; font-weight: 500 !important; }
+@media screen and (max-width: 900px) { body{ margin: 0% 5%; width: 90%; } }
